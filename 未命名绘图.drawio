@@ -1,1 +1,209 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T08:22:30.360Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.23" etag="yxlScrmQC2qejVqrx08_" type="github"><diagram name="第 1 页" id="pFk0yypuwyqEjEjbrsMm">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-23T08:22:58.835Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="wsQiqGk8vqWo6Y5mlTBT" version="20.8.23" type="github">
+  <diagram name="第 1 页" id="pFk0yypuwyqEjEjbrsMm">
+    <mxGraphModel dx="3434" dy="1389" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="twvuBPsLxJFiS-ZC_OdO-2" target="twvuBPsLxJFiS-ZC_OdO-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-2" value="&lt;font face=&quot;华文楷体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;理论贡献&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
+          <mxGeometry x="-240" y="1002.5" width="30" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-3" value="" style="group" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="-132" y="540" width="1092" height="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-4" value="" style="group" connectable="0" vertex="1" parent="twvuBPsLxJFiS-ZC_OdO-3">
+          <mxGeometry x="266" width="560" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="twvuBPsLxJFiS-ZC_OdO-4">
+          <mxGeometry width="220" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;文献资料收集&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" diagramCategory="general" diagramName="text" vertex="1" parent="twvuBPsLxJFiS-ZC_OdO-4">
+          <mxGeometry x="63.75" y="10" width="92.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-7" value="&lt;b&gt;&lt;span style=&quot;font-size: 12pt; font-family: 华文楷体;&quot;&gt;基于个人层面的绿色信息系统研究&lt;/span&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="twvuBPsLxJFiS-ZC_OdO-4">
+          <mxGeometry x="10" y="40" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-8" value="&lt;p style=&quot;margin-top:6.0pt;mso-para-margin-top:.5gd;line-height:&amp;lt;br/&amp;gt;115%;layout-grid-mode:char&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size: 12pt; font-family: 华文楷体;&quot;&gt;基于数字平台的个体低碳主张表达&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="twvuBPsLxJFiS-ZC_OdO-4">
+          <mxGeometry x="10" y="140" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="twvuBPsLxJFiS-ZC_OdO-4">
+          <mxGeometry x="340" width="220" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-10" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;消费端低碳转型现实挑战&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" diagramCategory="general" diagramName="text" vertex="1" parent="twvuBPsLxJFiS-ZC_OdO-4">
+          <mxGeometry x="361.88" y="10" width="176.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-11" value="&lt;span style=&quot;font-size:12.0pt;font-family:华文楷体;&amp;lt;br/&amp;gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&amp;lt;br/&amp;gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;&lt;b&gt;消费端个体范围广、差异大，低碳意识形成困难&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="twvuBPsLxJFiS-ZC_OdO-4">
+          <mxGeometry x="350" y="40" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-12" value="&lt;p style=&quot;margin-top:6.0pt;mso-para-margin-top:.5gd;line-height:&amp;lt;br/&amp;gt;115%;layout-grid-mode:char&quot;&gt;&lt;font face=&quot;华文楷体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;由社会互动形成的个体低碳主张作用不明显&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="twvuBPsLxJFiS-ZC_OdO-4">
+          <mxGeometry x="350" y="140" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-13" value="&lt;font face=&quot;华文楷体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;绿色消费研究及其对信息设计的启示&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="twvuBPsLxJFiS-ZC_OdO-4">
+          <mxGeometry x="10" y="90" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-14" value="&lt;font face=&quot;华文楷体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;信息不对称阻碍绿色消费习惯形成&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="twvuBPsLxJFiS-ZC_OdO-4">
+          <mxGeometry x="350.01" y="90" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-15" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" diagramCategory="general" diagramName="BidirectionalArrow" edge="1" parent="twvuBPsLxJFiS-ZC_OdO-4" source="twvuBPsLxJFiS-ZC_OdO-5" target="twvuBPsLxJFiS-ZC_OdO-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="256" y="120" as="sourcePoint" />
+            <mxPoint x="306" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-16" value="" style="group" connectable="0" vertex="1" parent="twvuBPsLxJFiS-ZC_OdO-3">
+          <mxGeometry y="220" width="1090" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="twvuBPsLxJFiS-ZC_OdO-16">
+          <mxGeometry width="1090" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-18" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;理论推演&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" diagramCategory="general" diagramName="text" vertex="1" parent="twvuBPsLxJFiS-ZC_OdO-16">
+          <mxGeometry x="497.25" y="10" width="92.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-19" value="&lt;font face=&quot;华文楷体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;消费者决策理论&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="twvuBPsLxJFiS-ZC_OdO-16">
+          <mxGeometry x="940.25" y="44" width="119" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-20" value="&lt;font face=&quot;华文楷体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;信号理论&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="twvuBPsLxJFiS-ZC_OdO-16">
+          <mxGeometry x="20.25" y="44" width="119" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-21" value="&lt;font face=&quot;华文楷体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;消费者信任理论&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="twvuBPsLxJFiS-ZC_OdO-16">
+          <mxGeometry x="327.25" y="44" width="119" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-22" value="&lt;font face=&quot;华文楷体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;制度理论&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="twvuBPsLxJFiS-ZC_OdO-16">
+          <mxGeometry x="633.25" y="44" width="119" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-23" value="" style="group" connectable="0" vertex="1" parent="twvuBPsLxJFiS-ZC_OdO-3">
+          <mxGeometry x="2" y="350" width="1090" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="twvuBPsLxJFiS-ZC_OdO-23">
+          <mxGeometry width="1090" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-25" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="twvuBPsLxJFiS-ZC_OdO-23">
+          <mxGeometry x="10.25" y="330" width="1066" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-26" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="twvuBPsLxJFiS-ZC_OdO-23">
+          <mxGeometry x="10" y="160" width="1066" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-27" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="twvuBPsLxJFiS-ZC_OdO-23">
+          <mxGeometry x="10" y="35" width="1066" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-28" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;研究内容&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" diagramCategory="general" diagramName="text" vertex="1" parent="twvuBPsLxJFiS-ZC_OdO-23">
+          <mxGeometry x="576.75" y="10" width="92.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-29" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;研究目标&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" diagramCategory="general" diagramName="text" vertex="1" parent="twvuBPsLxJFiS-ZC_OdO-23">
+          <mxGeometry x="247.75" y="10" width="92.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-30" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;数字技术作用机理&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" diagramCategory="general" diagramName="text" vertex="1" parent="twvuBPsLxJFiS-ZC_OdO-23">
+          <mxGeometry x="16" y="10" width="123" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-31" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;消费端低碳转型历程&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" diagramCategory="general" diagramName="text" vertex="1" parent="twvuBPsLxJFiS-ZC_OdO-23">
+          <mxGeometry x="927" y="10" width="143" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-32" value="&lt;font face=&quot;华文楷体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;信息提供&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="twvuBPsLxJFiS-ZC_OdO-23">
+          <mxGeometry x="16" y="75" width="119" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-33" value="&lt;font face=&quot;华文楷体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;信息组合&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="twvuBPsLxJFiS-ZC_OdO-23">
+          <mxGeometry x="16" y="222.5" width="119" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-34" value="&lt;font face=&quot;华文楷体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;信息反馈&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="twvuBPsLxJFiS-ZC_OdO-23">
+          <mxGeometry x="16" y="375" width="119" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-35" value="&lt;font face=&quot;华文楷体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;低碳意识唤起&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="twvuBPsLxJFiS-ZC_OdO-23">
+          <mxGeometry x="939" y="75" width="119" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-36" value="&lt;font face=&quot;华文楷体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;低碳行为产生&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="twvuBPsLxJFiS-ZC_OdO-23">
+          <mxGeometry x="939" y="219" width="119" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="twvuBPsLxJFiS-ZC_OdO-23" source="twvuBPsLxJFiS-ZC_OdO-35" target="twvuBPsLxJFiS-ZC_OdO-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-38" value="&lt;font face=&quot;华文楷体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;拥护低碳主张&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="twvuBPsLxJFiS-ZC_OdO-23">
+          <mxGeometry x="939" y="375" width="119" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="twvuBPsLxJFiS-ZC_OdO-23" source="twvuBPsLxJFiS-ZC_OdO-36" target="twvuBPsLxJFiS-ZC_OdO-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-40" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;研究方法&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" diagramCategory="general" diagramName="text" vertex="1" parent="twvuBPsLxJFiS-ZC_OdO-23">
+          <mxGeometry x="816.75" y="10" width="92.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-41" value="&lt;font face=&quot;华文楷体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;田野实验&lt;br /&gt;计量经济学&lt;br /&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="twvuBPsLxJFiS-ZC_OdO-23">
+          <mxGeometry x="803.5" y="75" width="119" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-42" value="&lt;font face=&quot;华文楷体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;机器学习&lt;br /&gt;计量经济学&lt;br /&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="twvuBPsLxJFiS-ZC_OdO-23">
+          <mxGeometry x="803.5" y="219" width="119" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-43" value="&lt;font face=&quot;华文楷体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;机器学习&lt;br /&gt;计量经济学&lt;br /&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="twvuBPsLxJFiS-ZC_OdO-23">
+          <mxGeometry x="803.5" y="375" width="119" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-44" value="&lt;font face=&quot;华文楷体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;研究专题三：基于平台信息交互的个体低碳主张对企业低碳行动的影响及机制研究&lt;/b&gt;&lt;/span&gt;&lt;br /&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="twvuBPsLxJFiS-ZC_OdO-23">
+          <mxGeometry x="146" y="375" width="296" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-45" value="&lt;font face=&quot;华文楷体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;研究专题二：短视频营销下企业绿色产品信息设计对消费者购买的影响及机制研究&lt;/b&gt;&lt;/span&gt;&lt;br /&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="twvuBPsLxJFiS-ZC_OdO-23">
+          <mxGeometry x="146" y="222.5" width="296" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-46" value="&lt;font face=&quot;华文楷体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;研究专题一：基于平台信息交互的个体低碳主张对企业低碳行动的影响及机制研究&lt;/b&gt;&lt;/span&gt;&lt;br /&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="twvuBPsLxJFiS-ZC_OdO-23">
+          <mxGeometry x="146" y="75" width="296" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-47" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;font-size: 16px; font-family: 华文楷体; background-color: initial;&quot;&gt;①数字平台对个人低碳行为直接数字助推的作用机制与效果研究&lt;/b&gt;&lt;/div&gt;&lt;font face=&quot;华文楷体&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;font-size: 16px; background-color: initial;&quot;&gt;②数字平台对其他亲社会行为的数字助推对个体低碳行为意识和行为产生的溢出效应研究。&lt;/b&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="twvuBPsLxJFiS-ZC_OdO-23">
+          <mxGeometry x="458" y="50" width="330" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-48" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;font-size: 16px; font-family: 华文楷体; background-color: initial;&quot;&gt;①绿色产品信息组合与绿色产品信息呈现如何激发消费者的认知信任与情感信任&lt;/b&gt;&lt;/div&gt;&lt;font face=&quot;华文楷体&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;font-size: 16px; background-color: initial;&quot;&gt;②探索绿色产品信息组合与信息呈现，消费者信任，以及消费者绿色产品购买之间的关系&lt;/b&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;③不同绿色产品信息组合及信息呈现对不同卷入度产品（高卷入度和低卷入度）的购买意愿产生影响的差异&lt;/b&gt;&lt;/div&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="twvuBPsLxJFiS-ZC_OdO-23">
+          <mxGeometry x="458" y="170" width="330" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-49" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;font-size: 16px; font-family: 华文楷体; background-color: initial;&quot;&gt;①揭示基于数字平台的个体低碳主张对企业低碳行动的影响&lt;/b&gt;&lt;/div&gt;&lt;font face=&quot;华文楷体&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;font-size: 16px; background-color: initial;&quot;&gt;②揭示数字平台交互性对个体低碳主张和企业低碳行动之间关系的调节作用&lt;/b&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="twvuBPsLxJFiS-ZC_OdO-23">
+          <mxGeometry x="458" y="350" width="330" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-50" value="" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="twvuBPsLxJFiS-ZC_OdO-3" source="twvuBPsLxJFiS-ZC_OdO-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="716" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-51" value="" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="twvuBPsLxJFiS-ZC_OdO-3" source="twvuBPsLxJFiS-ZC_OdO-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="545" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-52" value="" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="twvuBPsLxJFiS-ZC_OdO-3">
+          <mxGeometry x="436" y="840" width="220" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-53" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;理论与实践贡献&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" diagramCategory="general" diagramName="text" vertex="1" parent="twvuBPsLxJFiS-ZC_OdO-3">
+          <mxGeometry x="457.88" y="850" width="176.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-54" value="&lt;font face=&quot;华文楷体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;数字技术推动个体低碳转型理论体系&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="twvuBPsLxJFiS-ZC_OdO-3">
+          <mxGeometry x="446" y="880" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-55" value="&lt;p style=&quot;margin-top:6.0pt;mso-para-margin-top:.5gd;line-height:&amp;lt;br/&amp;gt;115%;layout-grid-mode:char&quot;&gt;&lt;font face=&quot;华文楷体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;典型成果验证性应用&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="twvuBPsLxJFiS-ZC_OdO-3">
+          <mxGeometry x="446" y="980" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-56" value="&lt;font face=&quot;华文楷体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;学术论文撰写与发表&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="twvuBPsLxJFiS-ZC_OdO-3">
+          <mxGeometry x="446.01" y="930" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-57" value="" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="twvuBPsLxJFiS-ZC_OdO-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="375" y="220" as="targetPoint" />
+            <mxPoint x="375" y="190" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-58" value="" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="twvuBPsLxJFiS-ZC_OdO-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="546.5" y="840" as="targetPoint" />
+            <mxPoint x="546.5" y="810" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="twvuBPsLxJFiS-ZC_OdO-60" target="twvuBPsLxJFiS-ZC_OdO-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-60" value="&lt;font face=&quot;华文楷体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;实践贡献&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
+          <mxGeometry x="1040" y="1002.5" width="30" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="twvuBPsLxJFiS-ZC_OdO-52" target="twvuBPsLxJFiS-ZC_OdO-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="twvuBPsLxJFiS-ZC_OdO-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="twvuBPsLxJFiS-ZC_OdO-52" target="twvuBPsLxJFiS-ZC_OdO-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
